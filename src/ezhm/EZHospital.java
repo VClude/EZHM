@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package pektor;
+package ezhm;
 import java.util.Iterator;  //     manggil Package dari java.util
 import java.util.Scanner;   //     biar fungsi Scanner,Iterator,Vector bisa jalan
 import java.util.Vector;    //     wajib hukumnya
@@ -12,7 +12,7 @@ import java.util.Vector;    //     wajib hukumnya
  *
  * @author XV-Clude
  */
-public class Pektor {
+public class EZHospital {
     //inisialisasi Vektor sehabis class Pektor biar bisa diakses dimana aja,
     //kalo diinisialisasi pas main bakal error, jadi wajib ditaruh disini
     //Atribut private biar cuma bisa diakses dari class ini aja.
